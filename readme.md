@@ -1,3 +1,3 @@
 # Hello World
-- [my sub page](https://github.com/dougsmovestuff.github.io/sub)
-- [Styled page](https://github.com/dougsmovestuff.github.io/another)
+- [my sub page](https://dougsmovestuff.github.io/sub)
+- [Styled page](https://dougsmovestuff.github.io/another)
